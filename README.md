@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZedTDean
 - 👀 I’m interested in ...Operational Research / Optimisation / Simulation 
-- 🌱 I’m currently learning ...Python / R /SAS /C++ /AMPL  
-- 💞️ I’m looking to collaborate on ...Mathematical Programming, Discrete simulation, System Dynamics,Data Envelopment analysis  
+- 🌱 I’m currently learning ...Gurobi API, AMPL, Python / R / SAS / C++ / C#
+- 💞️ I’m looking to collaborate on ...Mathematical Programming, Discrete simulation, System Dynamics, Data Envelopment analysis  
 - 📫 How to reach me ...zed.t.dean@gmail.com
 
 <!---
