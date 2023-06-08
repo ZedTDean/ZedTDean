@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZedTDean
 - 👀 I’m interested in ...Operational Research / Optimisation / Simulation 
 - 🌱 I’m in love with ...Gurobi API/ AMPL / Python / R / SAS / C++ / C# / Dockerfile /Docker Compose / Kubernetes / Powershell
-- 💞️ I’m looking to collaborate on ...Mathematical Programming, Discrete simulation, System Dynamics, Data Envelopment analysis  
+- 💞️ I’m looking to collaborate on ...Mathematical Programming, Discrete Event Simulation, System Dynamics, Data Envelopment analysis  
 - 📫 How to reach me ...zed.d@live.com
 
 <!---
